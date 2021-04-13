@@ -1,0 +1,12 @@
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\bin\Debug\netcoreapp3.1\SortedList_remove.exe
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\bin\Debug\netcoreapp3.1\SortedList_remove.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\bin\Debug\netcoreapp3.1\SortedList_remove.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\bin\Debug\netcoreapp3.1\SortedList_remove.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\bin\Debug\netcoreapp3.1\SortedList_remove.dll
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\bin\Debug\netcoreapp3.1\SortedList_remove.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\obj\Debug\netcoreapp3.1\SortedList_remove.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\obj\Debug\netcoreapp3.1\SortedList_remove.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\obj\Debug\netcoreapp3.1\SortedList_remove.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\obj\Debug\netcoreapp3.1\SortedList_remove.dll
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\obj\Debug\netcoreapp3.1\SortedList_remove.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_remove\obj\Debug\netcoreapp3.1\SortedList_remove.genruntimeconfig.cache

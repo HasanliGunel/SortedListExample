@@ -1,0 +1,13 @@
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\bin\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.exe
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\bin\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\bin\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\bin\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\bin\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.dll
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\bin\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\obj\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.csprojAssemblyReference.cache
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\obj\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\obj\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\obj\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\obj\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.dll
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\obj\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_ContainsKey_and_TryGetValue\obj\Debug\netcoreapp3.1\SortedList_ContainsKey_and_TryGetValue.genruntimeconfig.cache

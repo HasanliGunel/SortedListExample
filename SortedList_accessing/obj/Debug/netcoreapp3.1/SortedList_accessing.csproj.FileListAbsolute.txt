@@ -1,0 +1,13 @@
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\bin\Debug\netcoreapp3.1\SortedList_accessing.exe
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\bin\Debug\netcoreapp3.1\SortedList_accessing.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\bin\Debug\netcoreapp3.1\SortedList_accessing.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\bin\Debug\netcoreapp3.1\SortedList_accessing.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\bin\Debug\netcoreapp3.1\SortedList_accessing.dll
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\bin\Debug\netcoreapp3.1\SortedList_accessing.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\obj\Debug\netcoreapp3.1\SortedList_accessing.csprojAssemblyReference.cache
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\obj\Debug\netcoreapp3.1\SortedList_accessing.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\obj\Debug\netcoreapp3.1\SortedList_accessing.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\obj\Debug\netcoreapp3.1\SortedList_accessing.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\obj\Debug\netcoreapp3.1\SortedList_accessing.dll
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\obj\Debug\netcoreapp3.1\SortedList_accessing.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\SortedList_example\SortedList_accessing\obj\Debug\netcoreapp3.1\SortedList_accessing.genruntimeconfig.cache
